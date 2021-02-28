@@ -1,0 +1,76 @@
+.collapse {
+    justify-content: flex-end;
+    padding-right: 100px;
+}
+
+
+.navbar-nav li{
+    padding: 0 15px;
+}
+
+.navbar-expand-lg {
+    background-color: white;
+}
+
+
+.navbar-brand {
+    padding-left: 100px;
+}
+
+.container-hero {
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-evenly;
+}
+
+.hero-left p{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: .5;
+}
+
+.hero-left h2{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+
+.hero-left {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.d-grid {
+    padding-top: 20px;
+}
+
+.d-grid a {
+    color: white;
+    text-decoration: none;
+}
+ 
+.section-right h3 {
+    letter-spacing: 5px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.section-right p {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+
+.section-1 {
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-evenly;
+
+}
+
+.section-right {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
